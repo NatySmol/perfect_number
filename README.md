@@ -1,2 +1,6 @@
 # perfect_number
+CZ:
 Číslo nazveme perfektním, pokud je součtem svých (vlastních) dělitelů, tedy například 6 = 1 + 2 + 3, oproti tomu číslo 36 perfektní není, protože součet jeho dělitelů je 1 + 2 + 3 + 4 + 6 + 9 + 12 + 18 = 55. Číslo nazveme čtvercem, pokud je druhou mocninou nějakého celého čísla. Podobně číslo nazveme krychlí, pokud je třetí mocninou nějakého celého čísla. Napište program, který vyšetřuje tyto tři vlastnosti a oznámí je. Je-li číslo perfektní, vypíše 'P', je-li číslo čtverec, vypíše 'C' a pro krychli 'K' v tomto pořadí. Kupř. na vstup 64 tedy bude odpověď 'CK'.
+
+EN:
+We will call a number perfect if it is equal to the sum of its (proper) divisors, for example, 6 = 1 + 2 + 3. On the other hand, the number 36 is not perfect because the sum of its divisors is 1 + 2 + 3 + 4 + 6 + 9 + 12 + 18 = 55. We will call a number a square if it is the square of an integer. Similarly, we will call a number a cube if it is the cube of an integer. Write a program that examines these three properties and reports them. If the number is perfect, it should output 'P', if the number is a square, it should output 'C', and if the number is a cube, it should output 'K' in this order. For example, for the input 64, the answer should be 'CK'.
